@@ -1,3 +1,5 @@
+# Elasticsearch Docker Image를 빌드하기 위한 파일
+
 ARG ELK_VERSION
 
 # https://www.docker.elastic.co/

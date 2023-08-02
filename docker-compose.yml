@@ -1,3 +1,5 @@
+# ELK Docker Image를 빌드하고, container 설정을 정의하는 File
+
 version: '3.2'
 
 services:
